@@ -1,0 +1,5 @@
+console.log("Mónica")
+console.log("28 de merzo")
+console.log("secundaria")
+console.log("envhiladas suizas")
+console.log("glitchcore")
